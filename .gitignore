@@ -3,6 +3,4 @@
 .obsidian/cache/
 .trash/
 
-# System files
-.DS_Store
-Thumbs.db
+prompt.md
